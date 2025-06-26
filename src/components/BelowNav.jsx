@@ -1,5 +1,5 @@
 import React from 'react'
-import temp from '../assets/tempareture.png'
+import temp from '../assets/Tempareture.png'
 import forecast from '../assets/yeah.png'
 import rain from '../assets/rain graph.png'
 import sat from '../assets/SAT.png'
